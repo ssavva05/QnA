@@ -1,0 +1,38 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 2 Δεκ 2017, 11:28:27 πμ
+    Author     : ssavva05
+*/
+
+body {
+    padding-top: 5%;
+    padding-left: 3%;
+    padding-right: 3%;
+    background-color: #eee;
+}
+
+hr {
+    display: block;
+    height: 0.2px;
+    border: 0;
+    border-top: 1px solid #ccc;
+    margin: 1em 0;
+    padding: 0; 
+}
+
+.buttonbi { position: fixed; top:5px; right:5px ; }
+
+.divider{
+    width:5px;
+    height:auto;
+    display:inline-block;
+}
+
+#chart-container {
+    width: auto;
+    height: auto;
+}
